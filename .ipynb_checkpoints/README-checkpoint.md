@@ -9,7 +9,3 @@ This project applies an Autoencoder-based approach to dimensionality reduction a
 - Leiden clustering on Autoencoder-based embeddings
 - UMAP visualization to compare PCA vs. Autoencoder
 - Biological interpretation using marker genes
-
-### Data Source
-
-
