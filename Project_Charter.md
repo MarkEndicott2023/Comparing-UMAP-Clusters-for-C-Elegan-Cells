@@ -6,8 +6,8 @@
 - **Lead:** Mark Endicott
 - **Sponser:** Casey Detrio
 - **Biotech Advisor:** Steven Ouellette PhD
-- **Start Date:** 12/22/2024  
-- **Expected End Date:** TBD  
+- **Start Date:** 12/22/2024
+- **Status:** Ongoing  
 
 ## Project Objectives  
 ### 1. Develop an Autoencoder-Based Aging Clock  
