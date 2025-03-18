@@ -55,9 +55,5 @@
 - **Development Environment:** Anaconda, JupyterLab  
 - **Project Management & Communication:** Notion, Telegram  
 
-### Documentation & Reporting  
-- GitHub repository  
-- Final project write-up
-
 ---
 
